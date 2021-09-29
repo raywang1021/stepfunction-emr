@@ -1,5 +1,6 @@
 # Step Functions to Orchestrate Amazon EMR
 
+Create a s3 bucket and replace MY-BUCKET in json with it.
 
 Step Funcitons Amazon States Language (ASL):
 
