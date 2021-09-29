@@ -1,4 +1,5 @@
 # Step Functions to Orchestrate Amazon EMR
+![image](https://user-images.githubusercontent.com/17841922/135225691-9753c12d-e818-404c-b44b-69e01009c82c.png)
 
 Create a s3 bucket and replace `MY-BUCKET` in json with it.
 
