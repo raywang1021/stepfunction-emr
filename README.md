@@ -255,3 +255,5 @@ To use an existing cluster:
   "ClusterId": "j-xxx-yyy"
 }
 ```
+
+More detail information please reference: https://aws.amazon.com/tw/blogs/aws/new-using-step-functions-to-orchestrate-amazon-emr-workloads/
